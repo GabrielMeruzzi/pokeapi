@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.containerPoke {
+  padding-top: 3%;
+}
+
+.stackBtn {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+}
+
+.stackBtn button {
+  background-color: #ef5350;
+  color: #ffca1c;
+}
+
+.stackBtn button:hover {
+  background-color: #ffca1c;
+  color: #ef5350;
+}
